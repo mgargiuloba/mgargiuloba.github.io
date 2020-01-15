@@ -1,60 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michael Gargiulo</title>
-    <link>https://mgargiuloba.github.io/index.html</link>
-    <description>Recent content on Michael Gargiulo</description>
+    <title>Michael Gargiulo Website</title>
+    <link>https://mgargiuloba.github.io/</link>
+    <description>Recent content on Michael Gargiulo Website</description>
     <generator>Hugo -- gohugo.io</generator>
-
+    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
+    
 	<atom:link href="https://mgargiuloba.github.io/index.xml" rel="self" type="application/rss+xml" />
-
-
-  </channel>
-</rss>pe="application/rss+xml" />
-
-
+    
+    
     <item>
       <title></title>
       <link>https://mgargiuloba.github.io/about/</link>
       <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
-
+      
       <guid>https://mgargiuloba.github.io/about/</guid>
       <description>Experienced IT Business Analyst
 Passionate Project Manager
 Dedicated Product Owner
-Movie Lover
-My Skill Business Analysis Project Management Product Management Agile Team Management SQL    &amp;#189;| |*Agile Team Management* |&amp;nbsp;|&amp;nbsp;|&amp;nbsp;|&amp;nbsp;|&amp;nbsp;|⭐️⭐️⭐️⭐️⭐️ -- </description>
+Movie Lover</description>
     </item>
-
+    
+    <item>
+      <title></title>
+      <link>https://mgargiuloba.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgargiuloba.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://mgargiuloba.github.io/resume/</link>
-      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
-
-      <guid>https://mgargiuloba.github.io/resume/</guid>
-      <description>PROFESSIONAL SUMMARY IT Business analyst with 5 years’ experience focused on Agile project management, product management, database systems, business intelligence, data analysis &amp;amp; production support
- 4+ years’ experience leading &amp;amp; managing engineering teams &amp;amp; products 4+ years’ experience in project management, requirements - gathering &amp;amp; project analysis 4+ years’ experience initiating, managing &amp;amp; leading projects in IT, Merchandising &amp;amp; Marketing 4+ years’ experience with T-SQL &amp;amp; PL-SQL programming 2 years’ experience in Microservices architecture, RESTful API design, server-side web development, Google Cloud Pub/Sub, AWS SQS/SNS, e-commerce server-side programming &amp;amp; JSON  TOOLS AND TECHNOLOGIES Business Analysis:  Technical and functional requirements gathering, business process modeling &amp;amp; improvement, functional and technical requirement documentation, financial ROI analysis, user story writing, digital product management, UX collaboration, project initiation &amp;amp; lifecycle management  Tools:  Jira, Confluence, GitHub, MS SQL Server, Oracle DB, AWS SQS/SNS, Google Cloud, MS Azure, Oracle ATG, MongoDB, MS Excel, MS TFS, MS Visual Studio, MS PowerBI, Splunk, ElasticSearch &amp;amp; Relate CRM  Methodologies:  Agile, SCRUM, Kanban, Waterfall &amp;amp; SDLC  Data Modeling:  FACT/Dimension tables, Snowflake/Star schemas, SQL index/table design &amp;amp; KPI/Report Dashboard design  PROFESSIONAL EXPERIENCE URBN Philadelphia, PA</description>
-    </item>
-
-    <item>
-      <title>URBN Search Project</title>
-      <link>https://mgargiuloba.github.io/posts/2018/11/urbn-search-project/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-
-      <guid>https://mgargiuloba.github.io/posts/2018/11/urbn-search-project/</guid>
-      <description>test</description>
-    </item>
-
-    <item>
-      <title></title>
-      <link>https://mgargiuloba.github.io/timeline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
-      <guid>https://mgargiuloba.github.io/timeline/</guid>
-      <description>2019  Web Development  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci culpa dolore explicabo fuga pariatur gjkfdgj quis reprehenderit tenetur vel!
-   2018  Web Designing  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci culpa dolore explicabo fuga pariatur gjkfdgj quis reprehenderit tenetur vel!
-       </description>
+      
+      <guid>https://mgargiuloba.github.io/resume/</guid>
+      <description></description>
     </item>
-
+    
   </channel>
 </rss>
