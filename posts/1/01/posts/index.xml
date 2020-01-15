@@ -1,0 +1,10 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Michael Gargiulo Website</title>
+        <link>https://mgargiuloba.github.io/posts/1/01/posts/</link>
+        <description>Recent content in Posts on Michael Gargiulo Website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <atom:link href="https://mgargiuloba.github.io/posts/1/01/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+    </channel>
+</rss>
