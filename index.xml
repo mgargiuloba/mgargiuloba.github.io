@@ -5,10 +5,19 @@
     <link>https://mgargiuloba.github.io/</link>
     <description>Recent content on Michael Gargiulo Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mgargiuloba.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://mgargiuloba.github.io/blog/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgargiuloba.github.io/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -37,6 +46,15 @@ Movie Lover</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mgargiuloba.github.io/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mgargiuloba.github.io/timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgargiuloba.github.io/timeline/</guid>
       <description></description>
     </item>
     

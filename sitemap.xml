@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mgargiuloba.github.io/about/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+    <loc>https://mgargiuloba.github.io/blog/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mgargiuloba.github.io/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mgargiuloba.github.io/about/</loc>
     <lastmod>2019-05-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,6 +24,11 @@
   
   <url>
     <loc>https://mgargiuloba.github.io/resume/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mgargiuloba.github.io/timeline/</loc>
     <priority>0</priority>
   </url>
   
